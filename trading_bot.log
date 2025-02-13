@@ -1,0 +1,1708 @@
+2025-02-13 13:20:36,280 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:20:36,281 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:20:36,281 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:20:36,281 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:20:36,281 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:20:36,281 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:20:36,281 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:20:36,281 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:20:36,499 - __main__ - INFO - Current price: $2.4386
+2025-02-13 13:20:36,499 - __main__ - INFO - Next check in 263.5 seconds
+2025-02-13 13:20:51,249 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:20:51,249 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:20:51,249 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:20:51,250 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:20:51,250 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:20:51,250 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:20:51,250 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:20:51,250 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:20:51,456 - __main__ - INFO - Current price: $2.4386
+2025-02-13 13:20:51,456 - __main__ - INFO - Next check in 248.5 seconds
+2025-02-13 13:25:00,237 - __main__ - INFO - Current price: $2.4398
+2025-02-13 13:25:00,240 - __main__ - INFO - Next check in 299.8 seconds
+2025-02-13 13:28:32,257 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:28:32,257 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:28:32,257 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:28:32,258 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:28:32,258 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:28:32,258 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:28:32,258 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:28:32,258 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:28:32,526 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:28:32,530 - __main__ - INFO - Time: 2025-02-13 13:15:00, Close: $2.4386, Upper: $2.4442, Lower: $2.4437
+2025-02-13 13:28:32,531 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:28:32,531 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4366, Upper: $2.4438, Lower: $2.4431
+2025-02-13 13:28:32,542 - __main__ - INFO - Current price: $2.4366
+2025-02-13 13:28:32,543 - __main__ - INFO - Next check in 87.5 seconds
+2025-02-13 13:29:29,972 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:29:29,975 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:29:29,975 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:29:29,976 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:29:29,976 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:29:29,976 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:29:29,976 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:29:29,976 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:29:30,233 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:29:30,234 - __main__ - INFO - Time: 2025-02-13 13:15:00, Close: $2.4386, Upper: $2.4442, Lower: $2.4437
+2025-02-13 13:29:30,234 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:29:30,234 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4350, Upper: $2.4438, Lower: $2.4430
+2025-02-13 13:29:30,234 - __main__ - INFO - 
+Current time: 2025-02-13 13:25:00
+2025-02-13 13:29:30,234 - __main__ - INFO - Current price: $2.4350
+2025-02-13 13:29:30,235 - __main__ - INFO - Next check in 29.8 seconds
+2025-02-13 13:30:00,235 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:30:00,241 - __main__ - INFO - Time: 2025-02-13 13:15:00, Close: $2.4386, Upper: $2.4442, Lower: $2.4437
+2025-02-13 13:30:00,241 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:30:00,243 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:30:00,245 - __main__ - INFO - 
+Current time: 2025-02-13 13:25:00
+2025-02-13 13:30:00,245 - __main__ - INFO - Current price: $2.4333
+2025-02-13 13:30:00,245 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:30:22,151 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:30:22,152 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:30:22,152 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:30:22,152 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:30:22,152 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:30:22,152 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:30:22,152 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:30:22,153 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:30:23,009 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:30:23,010 - __main__ - INFO - Time: 2025-02-13 13:15:00, Close: $2.4386, Upper: $2.4442, Lower: $2.4437
+2025-02-13 13:30:23,010 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:30:23,010 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:30:23,010 - __main__ - INFO - 
+Current time: 2025-02-13 13:25:00
+2025-02-13 13:30:23,011 - __main__ - INFO - Current price: $2.4333
+2025-02-13 13:30:23,011 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:30:53,214 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:30:53,215 - __main__ - INFO - Time: 2025-02-13 13:15:00, Close: $2.4386, Upper: $2.4442, Lower: $2.4437
+2025-02-13 13:30:53,215 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:30:53,215 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:30:53,215 - __main__ - INFO - 
+Current time: 2025-02-13 13:25:00
+2025-02-13 13:30:53,215 - __main__ - INFO - Current price: $2.4333
+2025-02-13 13:30:53,216 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:31:23,419 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:31:23,419 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:31:23,419 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:31:23,419 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4472, Upper: $2.4440, Lower: $2.4432
+2025-02-13 13:31:23,420 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:31:23,420 - __main__ - INFO - Current price: $2.4472
+2025-02-13 13:31:23,420 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:31:53,603 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:31:53,603 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:31:53,604 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:31:53,604 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4438, Upper: $2.4438, Lower: $2.4430
+2025-02-13 13:31:53,604 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:31:53,604 - __main__ - INFO - Current price: $2.4438
+2025-02-13 13:31:53,605 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:32:23,793 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:32:23,793 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:32:23,794 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:32:23,794 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4391, Upper: $2.4436, Lower: $2.4427
+2025-02-13 13:32:23,794 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:32:23,794 - __main__ - INFO - Current price: $2.4391
+2025-02-13 13:32:23,795 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:32:53,965 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:32:53,965 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:32:53,965 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:32:53,966 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4389, Upper: $2.4436, Lower: $2.4427
+2025-02-13 13:32:53,966 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:32:53,966 - __main__ - INFO - Current price: $2.4389
+2025-02-13 13:32:53,966 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:33:24,157 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:33:24,158 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:33:24,158 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:33:24,158 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4491, Upper: $2.4441, Lower: $2.4433
+2025-02-13 13:33:24,158 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:33:24,158 - __main__ - INFO - Current price: $2.4491
+2025-02-13 13:33:24,159 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:33:54,370 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:33:54,371 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:33:54,371 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:33:54,371 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4541, Upper: $2.4443, Lower: $2.4436
+2025-02-13 13:33:54,371 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:33:54,372 - __main__ - INFO - Current price: $2.4541
+2025-02-13 13:33:54,372 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:34:24,555 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:34:24,556 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:34:24,556 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:34:24,556 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4562, Upper: $2.4444, Lower: $2.4437
+2025-02-13 13:34:24,557 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:34:24,557 - __main__ - INFO - Current price: $2.4562
+2025-02-13 13:34:24,557 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:34:54,728 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:34:54,729 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:34:54,729 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:34:54,729 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:34:54,729 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:34:54,730 - __main__ - INFO - Current price: $2.4539
+2025-02-13 13:34:54,730 - __main__ - INFO - Next check in 5.3 seconds
+2025-02-13 13:35:00,259 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:35:00,260 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:35:00,260 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:35:00,260 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:35:00,260 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:35:00,261 - __main__ - INFO - Current price: $2.4539
+2025-02-13 13:35:00,261 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:35:30,480 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:35:30,480 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:35:30,481 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:35:30,481 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:35:30,481 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:35:30,481 - __main__ - INFO - Current price: $2.4539
+2025-02-13 13:35:30,482 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:36:00,690 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:36:00,690 - __main__ - INFO - Time: 2025-02-13 13:20:00, Close: $2.4398, Upper: $2.4442, Lower: $2.4435
+2025-02-13 13:36:00,690 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:36:00,690 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:36:00,691 - __main__ - INFO - 
+Current time: 2025-02-13 13:30:00
+2025-02-13 13:36:00,691 - __main__ - INFO - Current price: $2.4539
+2025-02-13 13:36:00,691 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:36:30,876 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:36:30,878 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:36:30,878 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:36:30,878 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4544, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:36:30,879 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:36:30,879 - __main__ - INFO - Current price: $2.4544
+2025-02-13 13:36:30,879 - strategy - INFO - Signal generated at 2025-02-13 13:30:00: LONG
+2025-02-13 13:36:30,879 - strategy - INFO - Signal price: $2.4539
+2025-02-13 13:36:30,880 - strategy - INFO - Upper band: $2.4443
+2025-02-13 13:36:30,880 - strategy - INFO - Lower band: $2.4435
+2025-02-13 13:36:30,880 - strategy - INFO - Waiting for next candle to execute trade
+2025-02-13 13:36:30,880 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:37:01,071 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:01,071 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:01,072 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:01,072 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4517, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:37:01,072 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:37:01,072 - __main__ - INFO - Current price: $2.4517
+2025-02-13 13:37:01,079 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:37:01,083 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:37:01,083 - __main__ - INFO - Executing long trade at $2.4517
+2025-02-13 13:37:01,083 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:37:01,361 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:01,363 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:01,366 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:01,366 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4517, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:37:01,383 - __main__ - INFO - Placing buy order:
+2025-02-13 13:37:01,384 - __main__ - INFO - Entry Price: $2.4517
+2025-02-13 13:37:01,384 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:37:01,384 - __main__ - INFO - Size: 40.7880
+2025-02-13 13:37:01,384 - __main__ - INFO - Take Profit: $2.4533
+2025-02-13 13:37:01,384 - __main__ - INFO - Stop Loss: $2.4509
+2025-02-13 13:37:01,523 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:01,523 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911535efbbf476f7',t:'MTczOTQ1MzgyMS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:37:01,524 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:01,524 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:01,524 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:01,524 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:37:11,699 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:11,700 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:11,700 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:11,700 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4517, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:37:11,701 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:37:11,701 - __main__ - INFO - Current price: $2.4517
+2025-02-13 13:37:11,701 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:37:11,701 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:37:11,701 - __main__ - INFO - Executing long trade at $2.4517
+2025-02-13 13:37:11,702 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:37:11,990 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:11,991 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:11,991 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:11,991 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4517, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:37:11,992 - __main__ - INFO - Placing buy order:
+2025-02-13 13:37:11,992 - __main__ - INFO - Entry Price: $2.4517
+2025-02-13 13:37:11,992 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:37:11,992 - __main__ - INFO - Size: 40.7880
+2025-02-13 13:37:11,992 - __main__ - INFO - Take Profit: $2.4533
+2025-02-13 13:37:11,992 - __main__ - INFO - Stop Loss: $2.4509
+2025-02-13 13:37:12,133 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:12,133 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153631ffb276f7',t:'MTczOTQ1MzgzMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:37:12,134 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:12,134 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:12,135 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:12,135 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:37:26,280 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:37:26,281 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:37:26,281 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:37:26,281 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:37:26,281 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:37:26,281 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:37:26,282 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:37:26,282 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:37:26,515 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:26,516 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:26,516 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:26,516 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4517, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:37:26,517 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:37:26,517 - __main__ - INFO - Current price: $2.4517
+2025-02-13 13:37:26,518 - strategy - INFO - Signal generated at 2025-02-13 13:30:00: LONG
+2025-02-13 13:37:26,518 - strategy - INFO - Signal price: $2.4539
+2025-02-13 13:37:26,518 - strategy - INFO - Upper band: $2.4443
+2025-02-13 13:37:26,518 - strategy - INFO - Lower band: $2.4435
+2025-02-13 13:37:26,518 - strategy - INFO - Waiting for next candle to execute trade
+2025-02-13 13:37:26,518 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:37:56,710 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:56,710 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:56,711 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:56,711 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4529, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:37:56,711 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:37:56,711 - __main__ - INFO - Current price: $2.4529
+2025-02-13 13:37:56,711 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:37:56,711 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:37:56,712 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:37:56,712 - __main__ - INFO - Executing long trade at $2.4529
+2025-02-13 13:37:56,712 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:37:56,871 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:37:56,873 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:37:56,873 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:37:56,873 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4529, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:37:56,874 - __main__ - INFO - Placing buy order:
+2025-02-13 13:37:56,874 - __main__ - INFO - Entry Price: $2.4529
+2025-02-13 13:37:56,875 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:37:56,875 - __main__ - INFO - Size: 40.7681
+2025-02-13 13:37:56,875 - __main__ - INFO - Take Profit: $2.4545
+2025-02-13 13:37:56,875 - __main__ - INFO - Stop Loss: $2.4521
+2025-02-13 13:37:57,001 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:57,002 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9115374a8879ebc2',t:'MTczOTQ1Mzg3Ni4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:37:57,002 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:57,002 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:57,002 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:37:57,003 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:38:07,162 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:07,162 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:07,162 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:07,163 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4540, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:38:07,163 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:38:07,163 - __main__ - INFO - Current price: $2.4540
+2025-02-13 13:38:07,163 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:38:07,163 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:38:07,163 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:38:07,164 - __main__ - INFO - Executing long trade at $2.4540
+2025-02-13 13:38:07,164 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:38:07,401 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:07,401 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:07,401 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:07,402 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4540, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:38:07,402 - __main__ - INFO - Placing buy order:
+2025-02-13 13:38:07,402 - __main__ - INFO - Entry Price: $2.4540
+2025-02-13 13:38:07,402 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:38:07,402 - __main__ - INFO - Size: 40.7498
+2025-02-13 13:38:07,402 - __main__ - INFO - Take Profit: $2.4556
+2025-02-13 13:38:07,402 - __main__ - INFO - Stop Loss: $2.4532
+2025-02-13 13:38:07,522 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:07,522 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9115378c4cc4ebc2',t:'MTczOTQ1Mzg4Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:38:07,523 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:07,523 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:07,523 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:07,523 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:38:08,949 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:38:08,949 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:38:08,950 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:38:08,950 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:38:08,950 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:38:08,950 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:38:08,950 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:38:08,950 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:38:09,187 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:09,188 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:09,188 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:09,189 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4540, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:38:09,189 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:38:09,189 - __main__ - INFO - Current price: $2.4540
+2025-02-13 13:38:09,190 - strategy - INFO - 
+Signal Condition Analysis:
+2025-02-13 13:38:09,190 - strategy - INFO - Previous close: $2.4539
+2025-02-13 13:38:09,190 - strategy - INFO - Previous upper band: $2.4443
+2025-02-13 13:38:09,190 - strategy - INFO - Previous lower band: $2.4435
+2025-02-13 13:38:09,190 - strategy - INFO - Above bands: True
+2025-02-13 13:38:09,190 - strategy - INFO - Below bands: False
+2025-02-13 13:38:09,191 - strategy - INFO - 
+Crossing candle analysis:
+2025-02-13 13:38:09,191 - strategy - INFO - Crossing close: $2.4333
+2025-02-13 13:38:09,191 - strategy - INFO - Was below upper: True
+2025-02-13 13:38:09,191 - strategy - INFO - Was below lower: True
+2025-02-13 13:38:09,191 - strategy - INFO - LONG signal conditions met!
+2025-02-13 13:38:09,191 - strategy - INFO - 
+Signal generated at 2025-02-13 13:30:00: LONG
+2025-02-13 13:38:09,191 - strategy - INFO - Signal price: $2.4539
+2025-02-13 13:38:09,194 - strategy - INFO - Upper band: $2.4443
+2025-02-13 13:38:09,194 - strategy - INFO - Lower band: $2.4435
+2025-02-13 13:38:09,194 - strategy - INFO - Waiting for next candle to execute trade
+2025-02-13 13:38:09,194 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:38:39,385 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:39,385 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:39,386 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:39,386 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4548, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:38:39,386 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:38:39,386 - __main__ - INFO - Current price: $2.4548
+2025-02-13 13:38:39,386 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:38:39,386 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:38:39,387 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:38:39,387 - __main__ - INFO - Executing long trade at $2.4548
+2025-02-13 13:38:39,387 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:38:39,544 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:39,544 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:39,545 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:39,545 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4548, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:38:39,545 - __main__ - INFO - Placing buy order:
+2025-02-13 13:38:39,545 - __main__ - INFO - Entry Price: $2.4548
+2025-02-13 13:38:39,546 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:38:39,546 - __main__ - INFO - Size: 40.7365
+2025-02-13 13:38:39,546 - __main__ - INFO - Take Profit: $2.4564
+2025-02-13 13:38:39,546 - __main__ - INFO - Stop Loss: $2.4540
+2025-02-13 13:38:39,695 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:39,695 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911538553d93d465',t:'MTczOTQ1MzkxOS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:38:39,695 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:39,696 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:39,696 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:39,696 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:38:49,869 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:49,869 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:49,870 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:49,871 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4550, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:38:49,871 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:38:49,871 - __main__ - INFO - Current price: $2.4550
+2025-02-13 13:38:49,871 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:38:49,871 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:38:49,872 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:38:49,872 - __main__ - INFO - Executing long trade at $2.4550
+2025-02-13 13:38:49,872 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:38:50,171 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:38:50,171 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:38:50,172 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:38:50,172 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4550, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:38:50,172 - __main__ - INFO - Placing buy order:
+2025-02-13 13:38:50,172 - __main__ - INFO - Entry Price: $2.4550
+2025-02-13 13:38:50,172 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:38:50,172 - __main__ - INFO - Size: 40.7332
+2025-02-13 13:38:50,173 - __main__ - INFO - Take Profit: $2.4566
+2025-02-13 13:38:50,173 - __main__ - INFO - Stop Loss: $2.4542
+2025-02-13 13:38:50,310 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:50,311 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153897a990d465',t:'MTczOTQ1MzkzMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:38:50,311 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:50,311 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:50,311 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:38:50,311 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:39:00,513 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:00,513 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:00,514 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:00,514 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4550, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:39:00,514 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:39:00,514 - __main__ - INFO - Current price: $2.4550
+2025-02-13 13:39:00,514 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:39:00,514 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:39:00,515 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:39:00,515 - __main__ - INFO - Executing long trade at $2.4550
+2025-02-13 13:39:00,515 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:39:00,704 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:00,704 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:00,705 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:00,705 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4550, Upper: $2.4450, Lower: $2.4442
+2025-02-13 13:39:00,705 - __main__ - INFO - Placing buy order:
+2025-02-13 13:39:00,705 - __main__ - INFO - Entry Price: $2.4550
+2025-02-13 13:39:00,705 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:39:00,705 - __main__ - INFO - Size: 40.7332
+2025-02-13 13:39:00,706 - __main__ - INFO - Take Profit: $2.4566
+2025-02-13 13:39:00,706 - __main__ - INFO - Stop Loss: $2.4542
+2025-02-13 13:39:00,848 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:00,848 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911538d97cb3d465',t:'MTczOTQ1Mzk0MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:39:00,848 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:00,848 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:00,848 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:00,849 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:39:11,397 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:11,398 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:11,398 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:11,398 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4531, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:39:11,398 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:39:11,399 - __main__ - INFO - Current price: $2.4531
+2025-02-13 13:39:11,399 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:39:11,399 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:39:11,399 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:39:11,399 - __main__ - INFO - Executing long trade at $2.4531
+2025-02-13 13:39:11,399 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:39:11,576 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:11,576 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:11,577 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:11,577 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4531, Upper: $2.4449, Lower: $2.4441
+2025-02-13 13:39:11,577 - __main__ - INFO - Placing buy order:
+2025-02-13 13:39:11,577 - __main__ - INFO - Entry Price: $2.4531
+2025-02-13 13:39:11,577 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:39:11,578 - __main__ - INFO - Size: 40.7647
+2025-02-13 13:39:11,578 - __main__ - INFO - Take Profit: $2.4547
+2025-02-13 13:39:11,578 - __main__ - INFO - Stop Loss: $2.4523
+2025-02-13 13:39:11,706 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:11,706 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9115391d6a2ed465',t:'MTczOTQ1Mzk1MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:39:11,706 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:11,706 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:11,707 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:11,707 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:39:21,881 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:21,882 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:21,883 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:21,883 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4500, Upper: $2.4447, Lower: $2.4439
+2025-02-13 13:39:21,884 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:39:21,884 - __main__ - INFO - Current price: $2.4500
+2025-02-13 13:39:21,884 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:39:21,884 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:39:21,884 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:39:21,884 - __main__ - INFO - Executing long trade at $2.4500
+2025-02-13 13:39:21,884 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:39:22,069 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:22,069 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:22,070 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:22,070 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4504, Upper: $2.4448, Lower: $2.4439
+2025-02-13 13:39:22,070 - __main__ - INFO - Placing buy order:
+2025-02-13 13:39:22,070 - __main__ - INFO - Entry Price: $2.4500
+2025-02-13 13:39:22,071 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:39:22,071 - __main__ - INFO - Size: 40.8163
+2025-02-13 13:39:22,071 - __main__ - INFO - Take Profit: $2.4516
+2025-02-13 13:39:22,071 - __main__ - INFO - Stop Loss: $2.4492
+2025-02-13 13:39:22,205 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:22,205 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9115395ef8d1d465',t:'MTczOTQ1Mzk2Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:39:22,205 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:22,205 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:22,205 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:22,206 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:39:32,377 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:32,378 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:32,378 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:32,378 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4516, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:39:32,379 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:39:32,379 - __main__ - INFO - Current price: $2.4516
+2025-02-13 13:39:32,379 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:39:32,379 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:39:32,379 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:39:32,379 - __main__ - INFO - Executing long trade at $2.4516
+2025-02-13 13:39:32,379 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:39:32,551 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:32,552 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:32,552 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:32,553 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4516, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:39:32,553 - __main__ - INFO - Placing buy order:
+2025-02-13 13:39:32,553 - __main__ - INFO - Entry Price: $2.4516
+2025-02-13 13:39:32,553 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:39:32,553 - __main__ - INFO - Size: 40.7897
+2025-02-13 13:39:32,553 - __main__ - INFO - Take Profit: $2.4532
+2025-02-13 13:39:32,553 - __main__ - INFO - Stop Loss: $2.4508
+2025-02-13 13:39:32,691 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:32,691 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911539a07d4ad465',t:'MTczOTQ1Mzk3Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:39:32,691 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:32,691 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:32,691 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:32,692 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:39:42,861 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:42,862 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:42,862 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:42,862 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4516, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:39:42,863 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:39:42,863 - __main__ - INFO - Current price: $2.4516
+2025-02-13 13:39:42,863 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:39:42,863 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:39:42,863 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:39:42,863 - __main__ - INFO - Executing long trade at $2.4516
+2025-02-13 13:39:42,863 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:39:43,023 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:43,023 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:43,023 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:43,023 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4516, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:39:43,024 - __main__ - INFO - Placing buy order:
+2025-02-13 13:39:43,024 - __main__ - INFO - Entry Price: $2.4516
+2025-02-13 13:39:43,024 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:39:43,024 - __main__ - INFO - Size: 40.7897
+2025-02-13 13:39:43,024 - __main__ - INFO - Take Profit: $2.4532
+2025-02-13 13:39:43,024 - __main__ - INFO - Stop Loss: $2.4508
+2025-02-13 13:39:43,150 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:43,150 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911539e1fd61d465',t:'MTczOTQ1Mzk4My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:39:43,150 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:43,150 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:43,150 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:43,150 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:39:53,321 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:53,321 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:53,322 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:53,322 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:39:53,322 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:39:53,322 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:39:53,322 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:39:53,323 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:39:53,323 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:39:53,323 - __main__ - INFO - Executing long trade at $2.4512
+2025-02-13 13:39:53,324 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:39:53,577 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:39:53,578 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:39:53,578 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:39:53,578 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:39:53,579 - __main__ - INFO - Placing buy order:
+2025-02-13 13:39:53,579 - __main__ - INFO - Entry Price: $2.4512
+2025-02-13 13:39:53,579 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:39:53,579 - __main__ - INFO - Size: 40.7963
+2025-02-13 13:39:53,580 - __main__ - INFO - Take Profit: $2.4528
+2025-02-13 13:39:53,580 - __main__ - INFO - Stop Loss: $2.4504
+2025-02-13 13:39:53,716 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:53,716 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153a23eecad465',t:'MTczOTQ1Mzk5My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:39:53,717 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:53,717 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:53,717 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:39:53,717 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:40:03,896 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:03,897 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:03,897 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:03,897 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:03,898 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:40:03,898 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:40:03,898 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:40:03,898 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:40:03,898 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:40:03,898 - __main__ - INFO - Executing long trade at $2.4512
+2025-02-13 13:40:03,898 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:40:04,084 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:04,084 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:04,084 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:04,085 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:04,085 - __main__ - INFO - Placing buy order:
+2025-02-13 13:40:04,085 - __main__ - INFO - Entry Price: $2.4512
+2025-02-13 13:40:04,085 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:40:04,085 - __main__ - INFO - Size: 40.7963
+2025-02-13 13:40:04,085 - __main__ - INFO - Take Profit: $2.4528
+2025-02-13 13:40:04,086 - __main__ - INFO - Stop Loss: $2.4504
+2025-02-13 13:40:04,232 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:04,232 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153a659c5ed465',t:'MTczOTQ1NDAwNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:40:04,233 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:04,233 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:04,233 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:04,233 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:40:14,414 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:14,414 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:14,415 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:14,415 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:14,415 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:40:14,415 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:40:14,416 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:40:14,416 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:40:14,416 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:40:14,416 - __main__ - INFO - Executing long trade at $2.4512
+2025-02-13 13:40:14,416 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:40:14,584 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:14,584 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:14,585 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:14,585 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:14,585 - __main__ - INFO - Placing buy order:
+2025-02-13 13:40:14,585 - __main__ - INFO - Entry Price: $2.4512
+2025-02-13 13:40:14,586 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:40:14,586 - __main__ - INFO - Size: 40.7963
+2025-02-13 13:40:14,586 - __main__ - INFO - Take Profit: $2.4528
+2025-02-13 13:40:14,586 - __main__ - INFO - Stop Loss: $2.4504
+2025-02-13 13:40:14,739 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:14,739 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153aa73b53d465',t:'MTczOTQ1NDAxNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:40:14,739 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:14,739 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:14,740 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:14,740 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:40:24,931 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:24,931 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:24,932 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:24,932 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:24,933 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:40:24,937 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:40:24,937 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:40:24,951 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:40:24,953 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:40:24,953 - __main__ - INFO - Executing long trade at $2.4512
+2025-02-13 13:40:24,953 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:40:25,113 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:25,117 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:25,118 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:25,119 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:25,127 - __main__ - INFO - Placing buy order:
+2025-02-13 13:40:25,127 - __main__ - INFO - Entry Price: $2.4512
+2025-02-13 13:40:25,127 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:40:25,128 - __main__ - INFO - Size: 40.7963
+2025-02-13 13:40:25,128 - __main__ - INFO - Take Profit: $2.4528
+2025-02-13 13:40:25,128 - __main__ - INFO - Stop Loss: $2.4504
+2025-02-13 13:40:25,272 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:25,272 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153ae918e7d465',t:'MTczOTQ1NDAyNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:40:25,272 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:25,273 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:25,273 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:25,273 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:40:35,446 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:35,446 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:35,447 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:35,447 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:35,447 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:40:35,448 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:40:35,448 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:40:35,448 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:40:35,448 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:40:35,448 - __main__ - INFO - Executing long trade at $2.4512
+2025-02-13 13:40:35,448 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:40:35,627 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:35,627 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:35,627 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:35,628 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:35,628 - __main__ - INFO - Placing buy order:
+2025-02-13 13:40:35,628 - __main__ - INFO - Entry Price: $2.4512
+2025-02-13 13:40:35,628 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:40:35,628 - __main__ - INFO - Size: 40.7963
+2025-02-13 13:40:35,628 - __main__ - INFO - Take Profit: $2.4528
+2025-02-13 13:40:35,628 - __main__ - INFO - Stop Loss: $2.4504
+2025-02-13 13:40:35,769 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:35,769 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153b2ab835d465',t:'MTczOTQ1NDAzNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:40:35,770 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:35,770 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:35,770 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:35,770 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:40:45,965 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:45,966 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:45,966 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:45,966 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:45,967 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:40:45,967 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:40:45,967 - strategy - INFO - Trade execution conditions met: Current time 2025-02-13 13:35:00 > Signal time 2025-02-13 13:30:00
+2025-02-13 13:40:45,967 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:40:45,967 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:40:45,967 - __main__ - INFO - Executing long trade at $2.4512
+2025-02-13 13:40:45,967 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:40:46,140 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:46,141 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:46,141 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:46,142 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:46,142 - __main__ - INFO - Placing buy order:
+2025-02-13 13:40:46,142 - __main__ - INFO - Entry Price: $2.4512
+2025-02-13 13:40:46,142 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:40:46,143 - __main__ - INFO - Size: 40.7963
+2025-02-13 13:40:46,143 - __main__ - INFO - Take Profit: $2.4528
+2025-02-13 13:40:46,143 - __main__ - INFO - Stop Loss: $2.4504
+2025-02-13 13:40:46,299 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:46,299 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153b6c6a52d465',t:'MTczOTQ1NDA0Ni4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:40:46,299 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:46,299 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:46,299 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:40:46,299 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:40:49,365 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:40:49,365 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:40:49,365 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:40:49,365 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:40:49,366 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:40:49,366 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:40:49,366 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:40:49,366 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:40:49,894 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:40:49,894 - __main__ - INFO - Time: 2025-02-13 13:25:00, Close: $2.4333, Upper: $2.4437, Lower: $2.4429
+2025-02-13 13:40:49,895 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:40:49,895 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:40:49,896 - __main__ - INFO - 
+Current time: 2025-02-13 13:35:00
+2025-02-13 13:40:49,896 - __main__ - INFO - Current price: $2.4512
+2025-02-13 13:40:49,896 - strategy - INFO - 
+Analyzing candles:
+2025-02-13 13:40:49,896 - strategy - INFO - Previous candle (2025-02-13 13:30:00):
+2025-02-13 13:40:49,896 - strategy - INFO - Close: $2.4539
+2025-02-13 13:40:49,896 - strategy - INFO - Upper band: $2.4443
+2025-02-13 13:40:49,897 - strategy - INFO - Lower band: $2.4435
+2025-02-13 13:40:49,897 - strategy - INFO - 
+Current candle (2025-02-13 13:35:00):
+2025-02-13 13:40:49,897 - strategy - INFO - Open time: 2025-02-13 13:35:00
+2025-02-13 13:40:49,897 - strategy - INFO - 
+New signal generated at 2025-02-13 13:30:00: LONG
+2025-02-13 13:40:49,897 - strategy - INFO - Signal candle close: $2.4539
+2025-02-13 13:40:49,897 - strategy - INFO - Upper band: $2.4443
+2025-02-13 13:40:49,897 - strategy - INFO - Lower band: $2.4435
+2025-02-13 13:40:49,897 - strategy - INFO - Will execute on next candle open
+2025-02-13 13:40:49,898 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:41:20,085 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:20,085 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:20,085 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:20,086 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4551, Upper: $2.4455, Lower: $2.4446
+2025-02-13 13:41:20,086 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:41:20,086 - __main__ - INFO - Current price: $2.4551
+2025-02-13 13:41:20,086 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:41:20,086 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:41:20,086 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:41:20,087 - __main__ - INFO - Executing long trade at $2.4551
+2025-02-13 13:41:20,087 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:41:20,264 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:20,264 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:20,265 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:20,265 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4551, Upper: $2.4455, Lower: $2.4446
+2025-02-13 13:41:20,265 - __main__ - INFO - Placing buy order:
+2025-02-13 13:41:20,266 - __main__ - INFO - Entry Price: $2.4551
+2025-02-13 13:41:20,266 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:41:20,266 - __main__ - INFO - Size: 40.7315
+2025-02-13 13:41:20,266 - __main__ - INFO - Take Profit: $2.4568
+2025-02-13 13:41:20,266 - __main__ - INFO - Stop Loss: $2.4543
+2025-02-13 13:41:20,469 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:20,470 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153c41bc88b9fd',t:'MTczOTQ1NDA4MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:41:20,470 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:20,470 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:20,470 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:20,470 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:41:30,621 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:30,621 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:30,621 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:30,622 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4539, Upper: $2.4454, Lower: $2.4446
+2025-02-13 13:41:30,622 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:41:30,622 - __main__ - INFO - Current price: $2.4539
+2025-02-13 13:41:30,622 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:41:30,622 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:41:30,625 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:41:30,626 - __main__ - INFO - Executing long trade at $2.4539
+2025-02-13 13:41:30,626 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:41:30,782 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:30,783 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:30,783 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:30,783 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4539, Upper: $2.4454, Lower: $2.4446
+2025-02-13 13:41:30,783 - __main__ - INFO - Placing buy order:
+2025-02-13 13:41:30,784 - __main__ - INFO - Entry Price: $2.4539
+2025-02-13 13:41:30,784 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:41:30,784 - __main__ - INFO - Size: 40.7515
+2025-02-13 13:41:30,784 - __main__ - INFO - Take Profit: $2.4556
+2025-02-13 13:41:30,784 - __main__ - INFO - Stop Loss: $2.4530
+2025-02-13 13:41:30,906 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:30,907 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153c837dceb9fd',t:'MTczOTQ1NDA5MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:41:30,907 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:30,907 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:30,907 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:30,907 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:41:41,083 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:41,084 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:41,084 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:41,084 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:41:41,084 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:41:41,084 - __main__ - INFO - Current price: $2.4538
+2025-02-13 13:41:41,085 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:41:41,085 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:41:41,085 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:41:41,085 - __main__ - INFO - Executing long trade at $2.4538
+2025-02-13 13:41:41,085 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:41:41,262 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:41,263 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:41,263 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:41,263 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:41:41,264 - __main__ - INFO - Placing buy order:
+2025-02-13 13:41:41,264 - __main__ - INFO - Entry Price: $2.4538
+2025-02-13 13:41:41,264 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:41:41,264 - __main__ - INFO - Size: 40.7531
+2025-02-13 13:41:41,264 - __main__ - INFO - Take Profit: $2.4555
+2025-02-13 13:41:41,264 - __main__ - INFO - Stop Loss: $2.4529
+2025-02-13 13:41:41,422 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:41,423 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153cc4f821b9fd',t:'MTczOTQ1NDEwMS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:41:41,423 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:41,423 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:41,423 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:41,424 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:41:51,612 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:51,613 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:51,613 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:51,613 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:41:51,613 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:41:51,613 - __main__ - INFO - Current price: $2.4538
+2025-02-13 13:41:51,614 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:41:51,614 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:41:51,614 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:41:51,615 - __main__ - INFO - Executing long trade at $2.4538
+2025-02-13 13:41:51,615 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:41:51,897 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:41:51,897 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:41:51,897 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:41:51,898 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:41:51,898 - __main__ - INFO - Placing buy order:
+2025-02-13 13:41:51,898 - __main__ - INFO - Entry Price: $2.4538
+2025-02-13 13:41:51,898 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:41:51,898 - __main__ - INFO - Size: 40.7531
+2025-02-13 13:41:51,899 - __main__ - INFO - Take Profit: $2.4555
+2025-02-13 13:41:51,899 - __main__ - INFO - Stop Loss: $2.4529
+2025-02-13 13:41:52,052 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:52,052 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153d076f18b9fd',t:'MTczOTQ1NDExMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:41:52,053 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:52,053 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:52,053 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:41:52,053 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:42:02,259 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:02,259 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:02,259 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:02,260 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:02,260 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:42:02,260 - __main__ - INFO - Current price: $2.4538
+2025-02-13 13:42:02,260 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:42:02,260 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:42:02,260 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:42:02,260 - __main__ - INFO - Executing long trade at $2.4538
+2025-02-13 13:42:02,261 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:42:02,444 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:02,445 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:02,445 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:02,445 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:02,446 - __main__ - INFO - Placing buy order:
+2025-02-13 13:42:02,446 - __main__ - INFO - Entry Price: $2.4538
+2025-02-13 13:42:02,446 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:42:02,446 - __main__ - INFO - Size: 40.7531
+2025-02-13 13:42:02,446 - __main__ - INFO - Take Profit: $2.4555
+2025-02-13 13:42:02,446 - __main__ - INFO - Stop Loss: $2.4529
+2025-02-13 13:42:02,584 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:02,584 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153d495cc2b9fd',t:'MTczOTQ1NDEyMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:42:02,584 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:02,584 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:02,584 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:02,585 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:42:12,804 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:12,805 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:12,805 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:12,805 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4527, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:12,805 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:42:12,805 - __main__ - INFO - Current price: $2.4527
+2025-02-13 13:42:12,806 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:42:12,806 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:42:12,806 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:42:12,806 - __main__ - INFO - Executing long trade at $2.4527
+2025-02-13 13:42:12,806 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:42:12,966 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:12,968 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:12,969 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:12,969 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4527, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:12,969 - __main__ - INFO - Placing buy order:
+2025-02-13 13:42:12,969 - __main__ - INFO - Entry Price: $2.4527
+2025-02-13 13:42:12,970 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:42:12,970 - __main__ - INFO - Size: 40.7714
+2025-02-13 13:42:12,970 - __main__ - INFO - Take Profit: $2.4544
+2025-02-13 13:42:12,970 - __main__ - INFO - Stop Loss: $2.4518
+2025-02-13 13:42:13,101 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:13,102 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153d8b1b8ab9fd',t:'MTczOTQ1NDEzMy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:42:13,102 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:13,102 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:13,102 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:13,102 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:42:23,292 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:23,293 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:23,293 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:23,294 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4527, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:23,294 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:42:23,294 - __main__ - INFO - Current price: $2.4527
+2025-02-13 13:42:23,294 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:42:23,294 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:42:23,295 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:42:23,295 - __main__ - INFO - Executing long trade at $2.4527
+2025-02-13 13:42:23,295 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:42:23,452 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:23,453 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:23,455 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:23,455 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4527, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:23,456 - __main__ - INFO - Placing buy order:
+2025-02-13 13:42:23,456 - __main__ - INFO - Entry Price: $2.4527
+2025-02-13 13:42:23,456 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:42:23,456 - __main__ - INFO - Size: 40.7714
+2025-02-13 13:42:23,456 - __main__ - INFO - Take Profit: $2.4544
+2025-02-13 13:42:23,460 - __main__ - INFO - Stop Loss: $2.4518
+2025-02-13 13:42:23,623 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:23,623 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153dccb935b9fd',t:'MTczOTQ1NDE0My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:42:23,623 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:23,623 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:23,623 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:23,624 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:42:33,817 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:33,817 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:33,817 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:33,818 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4548, Upper: $2.4455, Lower: $2.4446
+2025-02-13 13:42:33,818 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:42:33,818 - __main__ - INFO - Current price: $2.4548
+2025-02-13 13:42:33,818 - strategy - INFO - Ready to execute trade: Current candle 2025-02-13 13:40:00 is right after signal candle 2025-02-13 13:30:00
+2025-02-13 13:42:33,818 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:42:33,818 - __main__ - INFO - Time since signal: 0 days 00:10:00
+2025-02-13 13:42:33,819 - __main__ - INFO - Executing long trade at $2.4548
+2025-02-13 13:42:33,819 - __main__ - INFO - Signal was generated at 2025-02-13 13:30:00
+2025-02-13 13:42:33,996 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:33,997 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:33,997 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:33,997 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4548, Upper: $2.4455, Lower: $2.4446
+2025-02-13 13:42:33,997 - __main__ - INFO - Placing buy order:
+2025-02-13 13:42:33,997 - __main__ - INFO - Entry Price: $2.4548
+2025-02-13 13:42:33,998 - __main__ - INFO - Band Distance: $0.0008
+2025-02-13 13:42:33,998 - __main__ - INFO - Size: 40.7365
+2025-02-13 13:42:33,998 - __main__ - INFO - Take Profit: $2.4565
+2025-02-13 13:42:33,998 - __main__ - INFO - Stop Loss: $2.4540
+2025-02-13 13:42:34,137 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:34,137 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153e0e8d24b9fd',t:'MTczOTQ1NDE1NC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:42:34,137 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:34,137 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:34,138 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:42:34,138 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:42:42,283 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:42:42,287 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:42:42,287 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:42:42,287 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:42:42,292 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:42:42,292 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:42:42,292 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:42:42,292 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:42:42,557 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:42,558 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:42,558 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:42,558 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:42,558 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:42:42,559 - __main__ - INFO - Current price: $2.4538
+2025-02-13 13:42:42,559 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:42:42,559 - strategy - INFO - Previous Candle Time: 2025-02-13 13:35:00
+2025-02-13 13:42:42,559 - strategy - INFO - Previous Close: $2.4512
+2025-02-13 13:42:42,559 - strategy - INFO - Previous Upper Band: $2.4448
+2025-02-13 13:42:42,559 - strategy - INFO - Previous Lower Band: $2.4440
+2025-02-13 13:42:42,560 - strategy - INFO - Distance from Upper: $-0.0064
+2025-02-13 13:42:42,560 - strategy - INFO - Distance from Lower: $0.0072
+2025-02-13 13:42:42,560 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:42:42,560 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:40:00
+2025-02-13 13:42:42,560 - strategy - INFO - Has Pending Signal: False
+2025-02-13 13:42:42,560 - strategy - INFO - 
+!!! New LONG signal generated !!!
+2025-02-13 13:42:42,560 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:42:42,560 - strategy - INFO - Signal Price: $2.4512
+2025-02-13 13:42:42,560 - strategy - INFO - Band Distance: $0.0008
+2025-02-13 13:42:42,560 - strategy - INFO - Will execute on next candle open
+2025-02-13 13:42:42,561 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:42:53,281 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:42:53,282 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:42:53,282 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:42:53,282 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:42:53,282 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:42:53,283 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:42:53,283 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:42:53,283 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:42:53,499 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:42:53,500 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:42:53,500 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:42:53,501 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4538, Upper: $2.4454, Lower: $2.4445
+2025-02-13 13:42:53,501 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:42:53,501 - __main__ - INFO - Current price: $2.4538
+2025-02-13 13:42:53,502 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:42:53,502 - strategy - INFO - Previous Candle Time: 2025-02-13 13:35:00
+2025-02-13 13:42:53,502 - strategy - INFO - Previous Close: $2.4512
+2025-02-13 13:42:53,502 - strategy - INFO - Previous Upper Band: $2.4448
+2025-02-13 13:42:53,502 - strategy - INFO - Previous Lower Band: $2.4440
+2025-02-13 13:42:53,502 - strategy - INFO - Distance from Upper: $-0.0064
+2025-02-13 13:42:53,502 - strategy - INFO - Distance from Lower: $0.0072
+2025-02-13 13:42:53,503 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:42:53,503 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:40:00
+2025-02-13 13:42:53,503 - strategy - INFO - Has Pending Signal: False
+2025-02-13 13:42:53,503 - strategy - INFO - 
+!!! New LONG signal generated !!!
+2025-02-13 13:42:53,503 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:42:53,503 - strategy - INFO - Signal Price: $2.4512
+2025-02-13 13:42:53,503 - strategy - INFO - Band Distance: $0.0008
+2025-02-13 13:42:53,503 - strategy - INFO - Will execute on next candle open
+2025-02-13 13:42:53,503 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:43:23,698 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:43:23,698 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:43:23,698 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:43:23,699 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4508, Upper: $2.4453, Lower: $2.4444
+2025-02-13 13:43:23,699 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:43:23,699 - __main__ - INFO - Current price: $2.4508
+2025-02-13 13:43:23,699 - strategy - INFO - 
+=== Execution Time Check ===
+2025-02-13 13:43:23,699 - strategy - INFO - Current Time: 2025-02-13 13:40:00
+2025-02-13 13:43:23,699 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:43:23,699 - strategy - INFO - Time Difference: 0:05:00
+2025-02-13 13:43:23,700 - strategy - INFO - >>> EXECUTING LONG signal now!
+2025-02-13 13:43:23,700 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:43:23,700 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:43:23,700 - __main__ - INFO - Executing long trade at $2.4508
+2025-02-13 13:43:23,700 - __main__ - INFO - Signal was generated at 2025-02-13 13:35:00
+2025-02-13 13:43:23,880 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:43:23,881 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:43:23,881 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:43:23,881 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4508, Upper: $2.4453, Lower: $2.4444
+2025-02-13 13:43:23,882 - __main__ - INFO - Placing buy order:
+2025-02-13 13:43:23,882 - __main__ - INFO - Entry Price: $2.4508
+2025-02-13 13:43:23,882 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:43:23,882 - __main__ - INFO - Size: 40.8030
+2025-02-13 13:43:23,882 - __main__ - INFO - Take Profit: $2.4526
+2025-02-13 13:43:23,882 - __main__ - INFO - Stop Loss: $2.4499
+2025-02-13 13:43:24,029 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:24,029 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153f464ad76841',t:'MTczOTQ1NDIwNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:43:24,029 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:24,029 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:24,030 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:24,030 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:43:34,209 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:43:34,210 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:43:34,210 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:43:34,210 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4508, Upper: $2.4453, Lower: $2.4444
+2025-02-13 13:43:34,211 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:43:34,211 - __main__ - INFO - Current price: $2.4508
+2025-02-13 13:43:34,211 - strategy - INFO - 
+=== Execution Time Check ===
+2025-02-13 13:43:34,211 - strategy - INFO - Current Time: 2025-02-13 13:40:00
+2025-02-13 13:43:34,211 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:43:34,211 - strategy - INFO - Time Difference: 0:05:00
+2025-02-13 13:43:34,211 - strategy - INFO - >>> EXECUTING LONG signal now!
+2025-02-13 13:43:34,212 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:43:34,212 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:43:34,212 - __main__ - INFO - Executing long trade at $2.4508
+2025-02-13 13:43:34,212 - __main__ - INFO - Signal was generated at 2025-02-13 13:35:00
+2025-02-13 13:43:34,445 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:43:34,446 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:43:34,446 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:43:34,446 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4508, Upper: $2.4453, Lower: $2.4444
+2025-02-13 13:43:34,447 - __main__ - INFO - Placing buy order:
+2025-02-13 13:43:34,447 - __main__ - INFO - Entry Price: $2.4508
+2025-02-13 13:43:34,447 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:43:34,447 - __main__ - INFO - Size: 40.8030
+2025-02-13 13:43:34,447 - __main__ - INFO - Take Profit: $2.4526
+2025-02-13 13:43:34,447 - __main__ - INFO - Stop Loss: $2.4499
+2025-02-13 13:43:34,591 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:34,591 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91153f8858166841',t:'MTczOTQ1NDIxNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:43:34,591 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:34,591 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:34,592 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:43:34,592 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:43:39,682 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:43:39,683 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:43:39,683 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:43:39,683 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:43:39,683 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:43:39,683 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:43:39,683 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:43:39,684 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:43:40,190 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:43:40,190 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:43:40,191 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:43:40,191 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4508, Upper: $2.4453, Lower: $2.4444
+2025-02-13 13:43:40,191 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:43:40,191 - __main__ - INFO - Current price: $2.4508
+2025-02-13 13:43:40,192 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:43:40,192 - strategy - INFO - Previous Candle Time: 2025-02-13 13:35:00
+2025-02-13 13:43:40,192 - strategy - INFO - Previous Close: $2.4512
+2025-02-13 13:43:40,192 - strategy - INFO - Previous Upper Band: $2.4448
+2025-02-13 13:43:40,192 - strategy - INFO - Previous Lower Band: $2.4440
+2025-02-13 13:43:40,192 - strategy - INFO - Distance from Upper: $-0.0064
+2025-02-13 13:43:40,192 - strategy - INFO - Distance from Lower: $0.0072
+2025-02-13 13:43:40,193 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:43:40,193 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:40:00
+2025-02-13 13:43:40,193 - strategy - INFO - Has Pending Signal: False
+2025-02-13 13:43:40,193 - strategy - INFO - 
+!!! New LONG signal generated !!!
+2025-02-13 13:43:40,193 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:43:40,193 - strategy - INFO - Signal Price: $2.4512
+2025-02-13 13:43:40,193 - strategy - INFO - Band Distance: $0.0008
+2025-02-13 13:43:40,193 - strategy - INFO - Will execute on next candle open
+2025-02-13 13:43:40,193 - __main__ - INFO - Next check in 30.0 seconds
+2025-02-13 13:44:10,394 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:10,394 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:10,395 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:10,395 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4496, Upper: $2.4452, Lower: $2.4443
+2025-02-13 13:44:10,395 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:44:10,395 - __main__ - INFO - Current price: $2.4496
+2025-02-13 13:44:10,396 - strategy - INFO - 
+=== Execution Time Check ===
+2025-02-13 13:44:10,396 - strategy - INFO - Current Time: 2025-02-13 13:40:00
+2025-02-13 13:44:10,396 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:44:10,396 - strategy - INFO - Time Difference: 0:05:00
+2025-02-13 13:44:10,396 - strategy - INFO - >>> EXECUTING LONG signal now!
+2025-02-13 13:44:10,396 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:44:10,396 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:44:10,396 - __main__ - INFO - Executing long trade at $2.4496
+2025-02-13 13:44:10,396 - __main__ - INFO - Signal was generated at 2025-02-13 13:35:00
+2025-02-13 13:44:10,603 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:10,603 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:10,604 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:10,604 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4496, Upper: $2.4452, Lower: $2.4443
+2025-02-13 13:44:10,605 - __main__ - INFO - Placing buy order:
+2025-02-13 13:44:10,605 - __main__ - INFO - Entry Price: $2.4496
+2025-02-13 13:44:10,605 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:44:10,605 - __main__ - INFO - Size: 40.8230
+2025-02-13 13:44:10,605 - __main__ - INFO - Take Profit: $2.4514
+2025-02-13 13:44:10,605 - __main__ - INFO - Stop Loss: $2.4487
+2025-02-13 13:44:10,760 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:10,760 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9115406a5f8175c2',t:'MTczOTQ1NDI1MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:44:10,760 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:10,761 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:10,761 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:10,761 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:44:20,962 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:20,962 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:20,963 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:20,963 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4496, Upper: $2.4452, Lower: $2.4443
+2025-02-13 13:44:20,963 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:44:20,963 - __main__ - INFO - Current price: $2.4496
+2025-02-13 13:44:20,963 - strategy - INFO - 
+=== Execution Time Check ===
+2025-02-13 13:44:20,963 - strategy - INFO - Current Time: 2025-02-13 13:40:00
+2025-02-13 13:44:20,964 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:44:20,964 - strategy - INFO - Time Difference: 0:05:00
+2025-02-13 13:44:20,964 - strategy - INFO - >>> EXECUTING LONG signal now!
+2025-02-13 13:44:20,964 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:44:20,964 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:44:20,964 - __main__ - INFO - Executing long trade at $2.4496
+2025-02-13 13:44:20,964 - __main__ - INFO - Signal was generated at 2025-02-13 13:35:00
+2025-02-13 13:44:21,142 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:21,143 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:21,143 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:21,143 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4496, Upper: $2.4452, Lower: $2.4443
+2025-02-13 13:44:21,144 - __main__ - INFO - Placing buy order:
+2025-02-13 13:44:21,144 - __main__ - INFO - Entry Price: $2.4496
+2025-02-13 13:44:21,145 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:44:21,145 - __main__ - INFO - Size: 40.8230
+2025-02-13 13:44:21,145 - __main__ - INFO - Take Profit: $2.4514
+2025-02-13 13:44:21,145 - __main__ - INFO - Stop Loss: $2.4487
+2025-02-13 13:44:21,294 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:21,294 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911540ac3eb375c2',t:'MTczOTQ1NDI2MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:44:21,294 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:21,294 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:21,294 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:21,294 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:44:31,480 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:31,481 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:31,481 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:31,481 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4496, Upper: $2.4452, Lower: $2.4443
+2025-02-13 13:44:31,482 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:44:31,482 - __main__ - INFO - Current price: $2.4496
+2025-02-13 13:44:31,482 - strategy - INFO - 
+=== Execution Time Check ===
+2025-02-13 13:44:31,482 - strategy - INFO - Current Time: 2025-02-13 13:40:00
+2025-02-13 13:44:31,482 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:44:31,482 - strategy - INFO - Time Difference: 0:05:00
+2025-02-13 13:44:31,482 - strategy - INFO - >>> EXECUTING LONG signal now!
+2025-02-13 13:44:31,482 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:44:31,483 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:44:31,483 - __main__ - INFO - Executing long trade at $2.4496
+2025-02-13 13:44:31,483 - __main__ - INFO - Signal was generated at 2025-02-13 13:35:00
+2025-02-13 13:44:31,766 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:31,767 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:31,767 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:31,768 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4496, Upper: $2.4452, Lower: $2.4443
+2025-02-13 13:44:31,768 - __main__ - INFO - Placing buy order:
+2025-02-13 13:44:31,768 - __main__ - INFO - Entry Price: $2.4496
+2025-02-13 13:44:31,768 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:44:31,768 - __main__ - INFO - Size: 40.8230
+2025-02-13 13:44:31,768 - __main__ - INFO - Take Profit: $2.4514
+2025-02-13 13:44:31,768 - __main__ - INFO - Stop Loss: $2.4487
+2025-02-13 13:44:31,917 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:31,918 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911540ee98ea75c2',t:'MTczOTQ1NDI3MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:44:31,918 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:31,918 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:31,918 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:31,919 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:44:42,135 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:42,135 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:42,135 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:42,136 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4475, Upper: $2.4451, Lower: $2.4442
+2025-02-13 13:44:42,136 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:44:42,136 - __main__ - INFO - Current price: $2.4475
+2025-02-13 13:44:42,136 - strategy - INFO - 
+=== Execution Time Check ===
+2025-02-13 13:44:42,136 - strategy - INFO - Current Time: 2025-02-13 13:40:00
+2025-02-13 13:44:42,136 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:44:42,136 - strategy - INFO - Time Difference: 0:05:00
+2025-02-13 13:44:42,136 - strategy - INFO - >>> EXECUTING LONG signal now!
+2025-02-13 13:44:42,136 - __main__ - INFO - Executing pending long signal immediately
+2025-02-13 13:44:42,137 - __main__ - INFO - Time since signal: 0 days 00:05:00
+2025-02-13 13:44:42,137 - __main__ - INFO - Executing long trade at $2.4475
+2025-02-13 13:44:42,137 - __main__ - INFO - Signal was generated at 2025-02-13 13:35:00
+2025-02-13 13:44:42,317 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:44:42,319 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:44:42,320 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:44:42,320 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4475, Upper: $2.4451, Lower: $2.4442
+2025-02-13 13:44:42,321 - __main__ - INFO - Placing buy order:
+2025-02-13 13:44:42,321 - __main__ - INFO - Entry Price: $2.4475
+2025-02-13 13:44:42,321 - __main__ - INFO - Band Distance: $0.0009
+2025-02-13 13:44:42,322 - __main__ - INFO - Size: 40.8580
+2025-02-13 13:44:42,322 - __main__ - INFO - Take Profit: $2.4493
+2025-02-13 13:44:42,322 - __main__ - INFO - Stop Loss: $2.4466
+2025-02-13 13:44:42,474 - blofin_api - ERROR - API request failed: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:42,475 - blofin_api - ERROR - Response text: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'911541308a6a75c2',t:'MTczOTQ1NDI4Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2025-02-13 13:44:42,475 - blofin_api - ERROR - Failed to set leverage for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:42,475 - blofin_api - ERROR - Failed to place order for XRP-USDT: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:42,475 - __main__ - ERROR - Failed to execute trade: 404 Client Error: Not Found for url: https://demo-trading-openapi.blofin.com/account/set-leverage
+2025-02-13 13:44:42,476 - __main__ - WARNING - Trade execution failed
+2025-02-13 13:44:46,879 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:44:46,879 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:44:46,879 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:44:46,879 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:44:46,880 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:44:46,880 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:44:46,880 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:44:46,880 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:44:46,880 - __main__ - INFO - Waiting 13.1 seconds for next candle
+2025-02-13 13:44:59,997 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:44:59,997 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:44:59,997 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:44:59,998 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:44:59,998 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:44:59,998 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:44:59,998 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:44:59,998 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:44:59,998 - __main__ - INFO - Waiting 0.0 seconds for next candle
+2025-02-13 13:45:00,196 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:45:00,197 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:45:00,197 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:45:00,197 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4460, Upper: $2.4450, Lower: $2.4441
+2025-02-13 13:45:00,198 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:45:00,198 - __main__ - INFO - Current price: $2.4460
+2025-02-13 13:45:00,198 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:45:00,198 - strategy - INFO - Previous Candle Time: 2025-02-13 13:35:00
+2025-02-13 13:45:00,198 - strategy - INFO - Previous Close: $2.4512
+2025-02-13 13:45:00,198 - strategy - INFO - Previous Upper Band: $2.4448
+2025-02-13 13:45:00,198 - strategy - INFO - Previous Lower Band: $2.4440
+2025-02-13 13:45:00,199 - strategy - INFO - Distance from Upper: $-0.0064
+2025-02-13 13:45:00,199 - strategy - INFO - Distance from Lower: $0.0072
+2025-02-13 13:45:00,199 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:45:00,199 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:40:00
+2025-02-13 13:45:00,199 - strategy - INFO - Has Pending Signal: False
+2025-02-13 13:45:00,199 - strategy - INFO - 
+!!! New LONG signal generated !!!
+2025-02-13 13:45:00,199 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:45:00,199 - strategy - INFO - Signal Price: $2.4512
+2025-02-13 13:45:00,199 - strategy - INFO - Band Distance: $0.0008
+2025-02-13 13:45:00,199 - strategy - INFO - Will execute at the start of 2025-02-13 13:40:00
+2025-02-13 13:45:00,200 - __main__ - INFO - Next candle check in 297.8 seconds
+2025-02-13 13:45:00,301 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:45:00,302 - __main__ - INFO - Time: 2025-02-13 13:30:00, Close: $2.4539, Upper: $2.4443, Lower: $2.4435
+2025-02-13 13:45:00,302 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:45:00,302 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4460, Upper: $2.4450, Lower: $2.4441
+2025-02-13 13:45:00,303 - __main__ - INFO - 
+Current time: 2025-02-13 13:40:00
+2025-02-13 13:45:00,303 - __main__ - INFO - Current price: $2.4460
+2025-02-13 13:45:00,303 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:45:00,303 - strategy - INFO - Previous Candle Time: 2025-02-13 13:35:00
+2025-02-13 13:45:00,303 - strategy - INFO - Previous Close: $2.4512
+2025-02-13 13:45:00,304 - strategy - INFO - Previous Upper Band: $2.4448
+2025-02-13 13:45:00,304 - strategy - INFO - Previous Lower Band: $2.4440
+2025-02-13 13:45:00,304 - strategy - INFO - Distance from Upper: $-0.0064
+2025-02-13 13:45:00,304 - strategy - INFO - Distance from Lower: $0.0072
+2025-02-13 13:45:00,304 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:45:00,304 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:40:00
+2025-02-13 13:45:00,304 - strategy - INFO - Has Pending Signal: False
+2025-02-13 13:45:00,304 - strategy - INFO - 
+!!! New LONG signal generated !!!
+2025-02-13 13:45:00,305 - strategy - INFO - Signal Time: 2025-02-13 13:35:00
+2025-02-13 13:45:00,305 - strategy - INFO - Signal Price: $2.4512
+2025-02-13 13:45:00,305 - strategy - INFO - Band Distance: $0.0008
+2025-02-13 13:45:00,305 - strategy - INFO - Will execute at the start of 2025-02-13 13:40:00
+2025-02-13 13:45:00,305 - __main__ - INFO - Next candle check in 297.7 seconds
+2025-02-13 13:46:29,246 - __main__ - INFO - Initializing trading bot for XRP-USDT
+2025-02-13 13:46:29,246 - __main__ - INFO - Trading bot initialized successfully
+2025-02-13 13:46:29,246 - __main__ - INFO - Starting trading bot for XRP-USDT
+2025-02-13 13:46:29,246 - __main__ - INFO - Strategy configuration:
+2025-02-13 13:46:29,247 - __main__ - INFO - Position size: $100.0
+2025-02-13 13:46:29,247 - __main__ - INFO - Leverage: 3x
+2025-02-13 13:46:29,247 - __main__ - INFO - TP multiplier: 2.0
+2025-02-13 13:46:29,247 - __main__ - INFO - SL multiplier: 1.0
+2025-02-13 13:46:29,247 - __main__ - INFO - Waiting 210.8 seconds for next candle
+2025-02-13 13:50:00,268 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:50:00,269 - __main__ - INFO - Time: 2025-02-13 13:35:00, Close: $2.4512, Upper: $2.4448, Lower: $2.4440
+2025-02-13 13:50:00,269 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4460, Upper: $2.4450, Lower: $2.4441
+2025-02-13 13:50:00,269 - __main__ - INFO - Time: 2025-02-13 13:45:00, Close: $2.4453, Upper: $2.4447, Lower: $2.4442
+2025-02-13 13:50:00,269 - __main__ - INFO - 
+Current time: 2025-02-13 13:45:00
+2025-02-13 13:50:00,269 - __main__ - INFO - Current price: $2.4453
+2025-02-13 13:50:00,270 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:50:00,270 - strategy - INFO - Previous Candle Time: 2025-02-13 13:40:00
+2025-02-13 13:50:00,270 - strategy - INFO - Previous Close: $2.4460
+2025-02-13 13:50:00,270 - strategy - INFO - Previous Upper Band: $2.4450
+2025-02-13 13:50:00,270 - strategy - INFO - Previous Lower Band: $2.4441
+2025-02-13 13:50:00,270 - strategy - INFO - Distance from Upper: $-0.0010
+2025-02-13 13:50:00,270 - strategy - INFO - Distance from Lower: $0.0019
+2025-02-13 13:50:00,270 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:50:00,270 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:45:00
+2025-02-13 13:50:00,271 - strategy - INFO - Has Pending Signal: False
+2025-02-13 13:50:00,271 - strategy - INFO - 
+!!! New LONG signal generated !!!
+2025-02-13 13:50:00,271 - strategy - INFO - Signal Time: 2025-02-13 13:40:00
+2025-02-13 13:50:00,272 - strategy - INFO - Signal Price: $2.4460
+2025-02-13 13:50:00,272 - strategy - INFO - Band Distance: $0.0009
+2025-02-13 13:50:00,273 - strategy - INFO - Will execute at the start of 2025-02-13 13:45:00
+2025-02-13 13:50:00,273 - __main__ - INFO - Next candle check in 297.7 seconds
+2025-02-13 13:54:58,000 - __main__ - INFO - Waiting 2.0 seconds for next candle
+2025-02-13 13:55:00,222 - __main__ - INFO - 
+Last 3 candles:
+2025-02-13 13:55:00,222 - __main__ - INFO - Time: 2025-02-13 13:40:00, Close: $2.4460, Upper: $2.4450, Lower: $2.4441
+2025-02-13 13:55:00,223 - __main__ - INFO - Time: 2025-02-13 13:45:00, Close: $2.4453, Upper: $2.4447, Lower: $2.4442
+2025-02-13 13:55:00,223 - __main__ - INFO - Time: 2025-02-13 13:50:00, Close: $2.4517, Upper: $2.4446, Lower: $2.4442
+2025-02-13 13:55:00,223 - __main__ - INFO - 
+Current time: 2025-02-13 13:50:00
+2025-02-13 13:55:00,223 - __main__ - INFO - Current price: $2.4517
+2025-02-13 13:55:00,224 - strategy - INFO - 
+=== Signal Analysis ===
+2025-02-13 13:55:00,224 - strategy - INFO - Previous Candle Time: 2025-02-13 13:45:00
+2025-02-13 13:55:00,224 - strategy - INFO - Previous Close: $2.4453
+2025-02-13 13:55:00,224 - strategy - INFO - Previous Upper Band: $2.4447
+2025-02-13 13:55:00,224 - strategy - INFO - Previous Lower Band: $2.4442
+2025-02-13 13:55:00,224 - strategy - INFO - Distance from Upper: $-0.0006
+2025-02-13 13:55:00,224 - strategy - INFO - Distance from Lower: $0.0011
+2025-02-13 13:55:00,225 - strategy - INFO - Outside Bands: Above
+2025-02-13 13:55:00,225 - strategy - INFO - 
+Current Candle Time: 2025-02-13 13:50:00
+2025-02-13 13:55:00,225 - strategy - INFO - Has Pending Signal: True
+2025-02-13 13:55:00,225 - strategy - INFO - Last Signal Time: 2025-02-13 13:40:00
+2025-02-13 13:55:00,225 - strategy - INFO - 
+=== Execution Check ===
+2025-02-13 13:55:00,225 - strategy - INFO - Current candle time: 2025-02-13 13:50:00
+2025-02-13 13:55:00,225 - strategy - INFO - Expected next candle: 2025-02-13 13:45:00
+2025-02-13 13:55:00,225 - strategy - INFO - Missed execution window, discarding signal
+2025-02-13 13:55:00,225 - __main__ - INFO - Next candle check in 297.8 seconds
